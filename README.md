@@ -1,4 +1,4 @@
-# Calculator-in-C-
+# Calculator
 
 A calculator programmed in C++ using OOP concepts
 Supports Addition, Subtration, Multiplication to be performed on multiple numbers altogether inspite of negative or positive
