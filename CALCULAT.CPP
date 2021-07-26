@@ -171,7 +171,7 @@ private:
   clrscr();
   calculator C;
   C.show();
-  getch();
+  getch()
 }
 
 
